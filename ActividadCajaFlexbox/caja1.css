@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+.conteiner {
+    display: flex;
+    flex-direction: column;
+}
+.box-1 {
+    background-color: #57C5B6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+.box-2 {
+    background-color: #159895;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 460px;
+}
+.box-3 {
+    background-color: #1A5F7A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
